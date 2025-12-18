@@ -1,1 +1,1 @@
-# fake-qr-decetor
+ÿþ
