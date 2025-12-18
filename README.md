@@ -47,8 +47,9 @@ A comprehensive security tool to detect malicious QR codes that could lead to ph
 ### Quick Install (One Command)
 ```bash
 # Clone the repository
-git clone https://github.com/lukkanagababu8/fake-qr-detector.git
+https://github.com/lukkanagababu8/fake-qr-decetor.git
 cd fake-qr-detector
 
 # Run the setup script
-python setup.py
+python main.py
+python web_app.py
